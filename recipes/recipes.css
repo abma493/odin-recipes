@@ -1,0 +1,28 @@
+
+
+.header-one {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#main-content {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+#header {
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
